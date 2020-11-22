@@ -1,5 +1,6 @@
-# HW_5-Day-Planner
+Day Planner
 
+https://migsgithub.github.io/Day-Planner_HW5/
 
 Created a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
